@@ -1,0 +1,9 @@
+- RS-Stream (Decay, and Window-based?)
+- xStream
+- Anyout
+- Robust random cut forest
+- HTM (Unsupervised real-time anomaly detection for streaming data)
+- SPOT
+
+Check this out: https://github.com/cmuxstream
+or here: https://github.com/yzhao062/pyod

@@ -2,7 +2,7 @@
 
 Welcome to the GitHub repository for the paper:
 
-- Edouard Fouché, Florian Kalinke, Klemens Böhm. 2020. Efficient Subspace Search in Data Streams. Preprint 
+- Edouard Fouché, Florian Kalinke, Klemens Böhm. 2020. Efficient Subspace Search in Data Streams. [Preprint](https://arxiv.org/abs/2011.06959) 
 
 You will find all the required code, data, and documentation to reproduce the results from our study. This repository is released under the AGPLv3 license. Please see the [LICENSE.md](LICENSE.md) file. 
 
